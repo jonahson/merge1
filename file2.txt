@@ -1,4 +1,8 @@
 1
 2
 b
+<<<<<<< HEAD
 c
+=======
+d
+>>>>>>> appended d to file2.txt
